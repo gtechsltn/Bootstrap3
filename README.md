@@ -16,6 +16,11 @@
 + [Bootstrap 4 Datetime Picker](https://github.com/tempusdominus/bootstrap-4)
 + [Tempus Dominus Date/Time Picker](https://github.com/Eonasdan/tempus-dominus)
 
+# Templates and Themes (All-in-One)
++ https://keenthemes.com/metronic/
++ https://preview.keenthemes.com/metronic8/
++ https://preview.keenthemes.com/metronic/
+
 # Samples
 + https://github.com/gtechsltn/Paper-Bootstrap3-Multipurpose
 + https://github.com/gtechsltn/Bootstrap3-Test-Page
