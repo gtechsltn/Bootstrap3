@@ -6,6 +6,11 @@
 + https://www.altituderesearch.org/template-features/2014-11-26-01-53-00/bootstrap3-tests
 + https://assets-cdn.shore.com/bootstrap/shore-bootstrap3/current/test-page/index.html
 
+# Samples
++ https://github.com/gtechsltn/Paper-Bootstrap3-Multipurpose
++ https://github.com/gtechsltn/Bootstrap3-Test-Page
++ https://github.com/gtechsltn/Bootstrap-Bootstrap3
+
 # Bootstrap 4
 + Bootstrap 4 site:html.design
 + https://html.design/bootstrap-4-templates/
