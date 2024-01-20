@@ -4,6 +4,7 @@
 
 # Bootstrap 3 Tests
 + https://www.altituderesearch.org/template-features/2014-11-26-01-53-00/bootstrap3-tests
++ https://assets-cdn.shore.com/bootstrap/shore-bootstrap3/current/test-page/index.html
 
 # Bootstrap 4
 + Bootstrap 4 site:html.design
