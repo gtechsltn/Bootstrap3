@@ -2,6 +2,9 @@
 + Bootstrap 3 site:html.design
 + https://html.design/bootstrap-3-templates/
 
+# Bootstrap 3 Tests
++ https://www.altituderesearch.org/template-features/2014-11-26-01-53-00/bootstrap3-tests
+
 # Bootstrap 4
 + Bootstrap 4 site:html.design
 + https://html.design/bootstrap-4-templates/
